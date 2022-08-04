@@ -1,0 +1,162 @@
+body{
+    padding: 50px 90px;
+}
+.item{
+    display: inline;
+}
+
+.list{
+    text-align: center;
+    padding-top: 25px;
+}
+
+.list-item{
+    margin: 0 17px;
+    font-family: 'orbitron';
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.image{
+    position: absolute;
+    left: 80px;
+}
+
+.button-group{
+    text-align: right;
+    position: absolute;
+    right: 80px;
+    top: 70px;
+}
+
+.navbar-container{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.square-image{
+    position: absolute;
+    z-index: -1;
+    top: 500px;
+    left: 300px;
+}
+
+ .sq-image{
+    width: 300px;
+    top: 600px;
+
+} 
+
+.relative{
+    position: absolute;
+}
+
+.actor-image{
+    width: 450px;
+}
+
+
+.box{
+    position: absolute;
+    height: 500px;
+    width: 700px;
+    left: 600px;
+    text-align: center;
+    top: 300px;
+}
+
+.hero-heading{
+    font-size: 3rem;
+    font-family: 'orbitron';
+
+}
+
+p{
+    margin: 35px 80px  80px 80px;
+    font-family: 'poppins';
+    font-size: 0.8rem;
+    color: #576F72;
+}
+
+.btn{
+    font-family: 'orbitron';
+    font-weight: 600;
+    margin: 0% 5px;
+    color: #395B64;
+}
+
+.btn2{
+    font-family: 'poppins';
+}
+
+
+.star{
+    position: absolute;
+    right: 80px;
+}
+
+.star2{
+    position: absolute;
+    right: 650px;
+    top: 730px;
+    width: 35px;
+}
+.globe{
+    position: absolute;
+    right: 550px;
+    top: 170px;
+    width: 45px;
+}
+
+.contact-heading{
+    margin-top: 80px;
+    font-family: 'poppins';
+    color: #576F72;
+    font-weight: 500;
+}
+
+.search-icon{
+    top: 16px;
+    right: 70px;
+    height: 22px;
+    position: absolute;
+}
+
+.search-icon2{
+    font-weight: 500;
+    top: 25px;
+    width: 120px;
+    height: 30px;
+    font-size: 1.1rem;
+    border: 20px;
+    border: solid;
+    border-radius: 9px;
+    background-color: white;
+    color: #576F72;
+    right: 20px;
+    padding: 0 10px;
+    position: absolute;
+}
+.iconss{
+    margin: 0 15px;
+    width: 25px;
+}
+
+.button-email{
+    height: 30px;
+    background-color: white;
+    border-radius: 6px;
+    padding: 0 15px;
+}
+
+.button-join{
+    height: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 6px;
+}
+
+.list-item:hover{
+    font-weight: 900;
+    text-decoration: underline;
+}
